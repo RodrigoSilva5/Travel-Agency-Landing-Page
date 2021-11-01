@@ -7,18 +7,18 @@
   <br>
   <h4>Final Product</h4>
   <h5>MOBILE</h5>
-  <code><img height="600" src="#" alt="mobile.gif"></code>  
+  <code><img height="600" src="gitignore/mobile.gif" alt="mobile.gif"></code>  
   <h5>DESKTOP</h5>
-  <code><img src="desktop.gif" alt="desktop gif"></code>
+  <code><img src="gitignore/desktop-video-travel-agency.gif" alt="desktop gif"></code>
   <h5>TABLETS</h5>
-  <code><img height="600" src="TABLET.gif" alt="tablets gif"></code>  
+  <code><img height="600" src="gitignore/TABLET.gif" alt="tablets gif"></code>  
  <br>
   <h4>MOCKUP <img height="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"></h4> 
   <h5>WIREFRAME</h5>
-  <code><img height="600" src="wireframe.jpg" alt="WIREFRAME"></code>  
+  <code><img height="600" src="gitignore/wireframe.jpg" alt="WIREFRAME"></code>  
   <h5>FINAL PRODUCT</h5>
-  <code><img height="600" src="mockup-travel-agençy.jpg" alt="MOCKUP-DESKTOP"></code>  
-  <code><img height="600" src="mk-mobile-2.jpg" alt="MOCKUP-MOBILE"></code>   
+  <code><img height="600" src="gitignore/mockup-desktop.jpg" alt="MOCKUP-DESKTOP"></code>  
+  <code><img height="600" src="gitignore/mockup-mobile.jpg" alt="MOCKUP-MOBILE"></code>   
   
 </div>
 
